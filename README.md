@@ -1,10 +1,10 @@
-# TIR-Sovereign_Systems
+# .T.I.R.®-Sovereign_Systems
 
 **Sovereign AI-Driven Automation Platform for Strategic Infrastructure and Urban Mobility**
 
 ## Executive Overview
 
-The TIR Sovereign System is a quantum-resilient, AI-orchestrated monolith designed for sovereign governance and high-integrity operations. Built on a unified architecture under SBI 77400 (IP & Architecture), it integrates IT services (SBI 62100) and data platforms (SBI 63920) to deliver secure, automated solutions across 12 high-growth pillars.
+The .T.I.R.® Sovereign System is a quantum-resilient, AI-orchestrated monolith designed for sovereign governance and high-integrity operations. Built on a unified architecture under SBI 77400 (IP & Architecture), it integrates IT services (SBI 62100) and data platforms (SBI 63920) to deliver secure, automated solutions across 12 high-growth pillars.
 
 **Core Value Proposition**:
 - Sovereign IP Vault with 12 encrypted security layers.
@@ -57,4 +57,4 @@ Businesses and investors are invited to review the architecture documentation an
 
 ---
 
-*© TIR Sovereign Systems. All rights reserved. Proprietary components protected.*
+*© .T.I.R.® Sovereign Systems. All rights reserved. Proprietary components protected.*
